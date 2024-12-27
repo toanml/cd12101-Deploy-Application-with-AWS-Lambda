@@ -1,0 +1,5 @@
+AuthO
+https://manage.auth0.com/dashboard/us/dev-vvtp51av2by75vvv/applications/llwSc1h4OiykKeSinIRQtQWLDqWYN4oP/settings
+Domain: dev-vvtp51av2by75vvv.us.auth0.com
+ClientID: llwSc1h4OiykKeSinIRQtQWLDqWYN4oP
+ClientSecret: pzc9m9zZX0UQBbAqwsUR7lar8fWSIUQ2drDUtTlCvCfrBJL_E3hF_LIGw6ferDtI

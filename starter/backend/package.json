@@ -11,20 +11,20 @@
   "author": "Ivan Mushketyk",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "^3.421.0",
-    "@aws-sdk/client-s3": "^3.421.0",
-    "@aws-sdk/lib-dynamodb": "^3.421.0",
-    "@aws-sdk/s3-request-presigner": "^3.421.0",
+    "@aws-sdk/client-dynamodb": "^3.716.0",
+    "@aws-sdk/client-s3": "^3.717.0",
+    "@aws-sdk/lib-dynamodb": "^3.716.0",
+    "@aws-sdk/s3-request-presigner": "^3.717.0",
     "@middy/core": "^3.6.2",
     "@middy/http-cors": "^3.6.2",
     "@middy/http-error-handler": "^3.6.2",
-    "aws-xray-sdk-core": "^3.5.2",
-    "axios": "^1.5.1",
+    "aws-xray-sdk-core": "^3.10.2",
+    "axios": "^1.7.9",
     "http-errors": "^2.0.0",
     "jsonwebtoken": "^9.0.2",
     "serverless-iam-roles-per-function": "^3.2.0",
     "uuid": "^9.0.1",
-    "winston": "^3.10.0"
+    "winston": "^3.17.0"
   },
   "devDependencies": {
     "serverless-aws-documentation": "^1.1.0",
